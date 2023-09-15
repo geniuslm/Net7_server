@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net7服务器", "Net7服务器.csproj", "{0826890B-A8A3-4E83-9660-B16110FCEF6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0826890B-A8A3-4E83-9660-B16110FCEF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0826890B-A8A3-4E83-9660-B16110FCEF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0826890B-A8A3-4E83-9660-B16110FCEF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0826890B-A8A3-4E83-9660-B16110FCEF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
